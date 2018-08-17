@@ -1,0 +1,10 @@
+# Conda environment for replicating results of Conway, Salon and King. "Trends in Taxi Use and the Advent of
+#   Ridehailing, 1995--2017: Evidence from the US National Household Travel Survey"
+name: ridehailing-nhts
+dependencies:
+  - python==3.6
+  - numpy==1.14
+  - pandas==0.21
+  - matplotlib==2.1
+  - jupyter
+  - nb_conda_kernels
