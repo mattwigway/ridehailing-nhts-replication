@@ -1,6 +1,43 @@
 # Modified from https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore (CC0)
 
-data
+data/1995/Hhold95.txt
+data/1995/dtrp95_2.txt
+data/1995/Vehicl95.txt
+data/1995/Segtrp95.txt
+data/1995/Pertrp95.lst
+data/1995/pers95_2.lst
+data/1995/Pertrp95.txt
+data/1995/PERS95_2.TXT
+data/1995/Segtrp95.lst
+data/1995/Hhold95.lst
+data/1995/dtrp95_2.lst
+data/1995/Vehicl95.lst
+data/2001/LDTPUB.csv
+data/2001/hh50wt.csv
+data/2001/HHPUB.csv
+data/2001/ldt50wt.csv
+data/2001/VEHPUB.csv
+data/2001/DAYPUB.csv
+data/2001/PERPUB.csv
+data/2001/pr50wt.csv
+data/2009/Ascii/DAYV2PUB.CSV
+data/2009/Ascii/HHV2PUB.CSV
+data/2009/Ascii/PERV2PUB.CSV
+data/2009/Ascii/VEHV2PUB.CSV
+data/2009/hh50wt.csv
+data/2009/Citation.docx
+data/2009/per50wt.csv
+data/2017/Citation.docx
+data/2017/hhwgt.csv
+data/2017/trippub.csv
+data/2017/hhpub.csv
+data/2017/vehpub.csv
+data/2017/perpub.csv
+data/2017/perwgt.csv
+fig/*.pdf
+tables/*.tex
+stata/pers17.dta
+stata/*.tsv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

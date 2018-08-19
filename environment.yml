@@ -8,3 +8,4 @@ dependencies:
   - matplotlib==2.1
   - jupyter
   - nb_conda_kernels
+  - xlrd==1.1
