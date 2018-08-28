@@ -1,6 +1,6 @@
 ## Replication package for Conway, Salon and King. "Trends in Taxi Use and the Advent of Ridehailing, 1995--2017: Evidence from the US National Household Travel Survey"
 
-This replication package contains all the code needed to replicate the results in the aforementioned paper. Most of the code is in Python, with some model estimation code written in Stata. Stata 15.1 was used, and the `outreg2` package is needed (to install, run `ssc install outreg2`). Python dependency management is handled with [Anaconda](https://www.anaconda.com/download/). To get the same environment I had when producing the original figures and results in the paper, run
+This replication package contains all the code needed to replicate the results in Conway, M.W.; Salon, D.; King, D.A.	Trends in Taxi Use and the Advent of Ridehailing, 1995–2017: Evidence from the US National Household Travel Survey. Urban Sci. 2018, 2, 79. The paper is open access and [available online](http://www.mdpi.com/2413-8851/2/3/79). Most of the code is in Python, with some model estimation code written in Stata. Stata 15.1 was used, and the `outreg2` package is needed (to install, run `ssc install outreg2`). Python dependency management is handled with [Anaconda](https://www.anaconda.com/download/). To get the same environment I had when producing the original figures and results in the paper, run
 
     conda env create
     source activate ridehailing-nhts
