@@ -73,7 +73,7 @@ Demographics and Trends are the two main notebooks, with other notebooks serving
 - [Tours.ipynb](notebooks/Tours.ipynb)
   This notebook analyzes the multimodality of tours, including autos and for-hire vehicles.
 
-- [Weighted Unweighted Comparison.ipynb](notebooks/Weighted Unweighted Comparison.ipynb)
+- [Weighted Unweighted Comparison.ipynb](notebooks/Weighted%20Unweighted%20Comparison.ipynb)
   This generates a visual comparison between the weighted and unweighted models.
 
 ### Stata files
